@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex909&label=Profile%20views&color=0e75b6&style=flat" alt="codex909" /> </p>
 
-- 🌱 I’m currently learning **advanced front-end skills**
+- 🌱 I’m currently learning **advanced python**
 
 - 👨‍💻 All of my projects are available at [https://hatem-alsharif.netlify.app](https://hatem-alsharif.netlify.app)
 
