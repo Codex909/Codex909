@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex909&label=Profile%20views&color=0e75b6&style=flat" alt="codex909" /> </p>
 
-- 🌱 I’m currently learning **advanced python**
+- 🌱 I’m currently learning **Game Development**
 
 - 👨‍💻 All of my projects are available at [https://hatem-alsharif.netlify.app](https://hatem-alsharif.netlify.app)
 
-- 💬 Ask me about **networks**
+- 💬 Ask me about **Gaming**
 
 - 📫 How to reach me **Hatemalsharif333@gmail.com**
 
