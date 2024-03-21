@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex909&label=Profile%20views&color=0e75b6&style=flat" alt="codex909" /> </p>
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://hatem-alsharif.netlify.app](https://hatem-alsharif.netlify.app)
 
-- 💬 Ask me about **Gaming**
+- 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **Hatemalsharif333@gmail.com**
 
 - 📄 Know about my experiences [amethyst-tara-61.tiiny.site](amethyst-tara-61.tiiny.site)
 
-- ⚡ Fun fact **I once stayed up for 2 days straight to finish a project, it was tough and fun at the same time.**
+- ⚡ Fun fact **I once stayed up for 2 days straight to finish a personal project, it was tough and fun at the same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
