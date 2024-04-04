@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://hatem-alsharif.netlify.app](https://hatem-alsharif.netlify.app)
+- 👨‍💻 All of my projects are available at [https://hatem-portfolio.netlify.app](https://hatem-alsharif.netlify.app)
 
 - 💬 Ask me about **Cyber Security**
 
