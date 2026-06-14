@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Hatem Alsharif</h1>
 
 <h3 align="center">
@@ -213,4 +213,4 @@ I am currently focused on:
 - **Email:** [hatemalsharif333@gmail.com](mailto:hatemalsharif333@gmail.com)
 - **GitHub:** [github.com/codex909](https://github.com/codex909)
 - **Location:** United Arab Emirates
-```
+
