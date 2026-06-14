@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Hatem Alsharif</h1>
 
-<h3 align="center">
-Software Developer · Systems Engineer · Technical Product Builder
-</h3>
+<h3 align="center">Software Developer · Systems Engineer · Technical Product Builder</h3>
 
 <p align="center">
-Based in the UAE, building production business systems, AI-powered document platforms, integrations, and automation tools.
+Based in the UAE, building production business systems, AI applications, integrations, and automation tools.
 </p>
 
 ---
@@ -19,88 +17,74 @@ I currently work as an **IT Manager and Software Developer at Petra Point Survey
 
 My work covers the complete product lifecycle:
 
-- Understanding business and employee workflows
-- Designing the technical architecture
-- Building and integrating the solution
-- Deploying it into production
-- Training users
-- Troubleshooting operational issues
-- Improving the system based on real usage
+- Understanding business requirements and operational workflows
+- Designing scalable technical solutions
+- Building applications, integrations, and automation services
+- Deploying and maintaining production systems
+- Training users and supporting company-wide adoption
+- Monitoring reliability, backups, and system performance
+- Improving products based on real-world usage and feedback
 
 ---
 
-## 🏢 Petra Point Project & File Management Platform
+## 🏢 Project and File Management Platform
 
-I designed and implemented the internal operational platform used by Petra Point Survey Services to manage projects, engineering files, tasks, approvals, authority submissions, employee communication, and reporting.
+I designed and implemented an internal project and file management platform for Petra Point Survey Services.
 
-The platform includes:
+The platform centralizes:
 
 - Project and task management
-- Structured engineering workflows
-- Authority submission tracking
-- Role-based permissions and approvals
-- Live operational dashboards
-- Task timers and timesheets
-- Internal communication features
-- Engineering document storage and retrieval
+- Operational workflows
+- Document storage and retrieval
+- Approval and progress tracking
+- Employee communication
+- Timesheets and task timers
+- Management dashboards
+- Reporting and activity visibility
 - Automated backup and recovery workflows
-- Custom Odoo modules and integrations
+- Custom modules and third-party integrations
 
-I have developed **47+ custom internal modules and workflow improvements** around the platform.
+I have developed **47+ custom modules and workflow improvements** around the platform.
 
-### File Management Architecture
+One of the most challenging areas was building a reliable file-management workflow capable of handling large project files while keeping access fast and storage organized.
 
-One of the most challenging parts was designing a reliable file-management system for large engineering and survey projects.
+The solution included:
 
-I implemented a hybrid architecture involving:
-
-- Fast application-side storage
-- An office NAS as the long-term authoritative repository
-- Automated Python synchronization services
+- Hybrid application and network storage
+- Automated file synchronization
 - Structured project folders
-- File locking and duplicate protection
 - Logging and failure recovery
-- Database and filestore backups
-- Off-site disaster-recovery copies
+- Duplicate and conflict protection
+- Database and file backups
+- Off-site recovery copies
 
-The system became part of the company’s daily operations and is now used across departments as the central platform for project work and document management.
+The platform became part of the company’s daily operations and is now used across departments as the central system for managing projects, files, tasks, and internal processes.
 
-> The production code is private because it contains proprietary company workflows, infrastructure details, and business data.
-
----
-
-## 🧠 Engineering Search Pro
-
-I am building **Engineering Search Pro**, an enterprise-grade AI search and question-answering platform for engineering documents in the UAE.
-
-It is designed to work with:
-
-- Engineering PDFs
-- Technical specifications
-- Standards and codes
-- Authority requirements
-- Tables and schedules
-- Drawings and visual documents
-- Infrastructure guidelines
-
-The platform is being designed around:
-
-- Governed document ingestion
-- PDF extraction and page classification
-- Section and clause hierarchy
-- Metadata-driven indexing
-- Hybrid retrieval and reranking
-- Authority-aware evidence selection
-- Citation and source-lineage validation
-- Ambiguity detection
-- Human review workflows
-- Large-scale regression evaluation
-
-The primary implementation is proprietary. Public repositories on this profile demonstrate selected engineering patterns through sanitized or independently created examples.
+> The production source code is private because it contains proprietary company workflows, infrastructure details, and business data.
 
 ---
 
-## ⚙️ Other Systems and Tools
+## 🤖 AI and Retrieval Systems
+
+I build AI-powered search, retrieval, and question-answering systems for large document collections.
+
+My work in this area includes:
+
+- Retrieval-augmented generation
+- Document ingestion and processing
+- Semantic and keyword search
+- Metadata-driven retrieval
+- Evidence selection and reranking
+- Citation validation
+- Prompt engineering
+- Automated evaluation and regression testing
+- API development and production deployment
+
+The production systems and underlying product concepts are proprietary. Public repositories contain only isolated technical patterns, synthetic examples, and reusable components.
+
+---
+
+## ⚙️ Internal Tools and Automation
 
 I have also built tools and services for:
 
@@ -113,6 +97,7 @@ I have also built tools and services for:
 - API and payment integrations
 - Business website development
 - Infrastructure monitoring and recovery
+- Data processing and validation
 
 ---
 
@@ -132,13 +117,15 @@ I have also built tools and services for:
 - SQL
 - REST APIs
 - Odoo
-- Background services and automation
+- Background services
+- Data processing and automation
 
 ### AI and Document Intelligence
 
 - Retrieval-augmented generation
-- Engineering-document ingestion
-- Search and reranking
+- Document ingestion
+- Semantic search
+- Hybrid retrieval
 - Metadata and evidence modeling
 - Prompt engineering
 - Citation validation
@@ -147,7 +134,7 @@ I have also built tools and services for:
 ### Infrastructure
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="42" height="42"/>
@@ -181,30 +168,29 @@ I have also built tools and services for:
 
 ## 🔒 Public Repository Policy
 
-Most of my largest systems were developed for internal company use and cannot be published publicly.
+Most of my production work involves internal company platforms or proprietary products and cannot be published publicly.
 
-The public repositories on this profile contain:
+Repositories on this profile contain:
 
-- Sanitized implementations
-- Independently recreated architecture patterns
-- Reusable tools and templates
-- Demonstrations using public or synthetic data
-- Documentation, tests, and deployment examples
+- Sanitized utilities
+- Generic architecture patterns
+- Reusable development templates
+- Synthetic demonstrations
+- Independent technical experiments
 
-No proprietary workflows, production credentials, client information, internal infrastructure details, or company source code are published.
+No production source code, proprietary product logic, client data, credentials, internal workflows, or confidential infrastructure details are published.
 
 ---
 
 ## 📌 Current Focus
-
-I am currently focused on:
 
 - Enterprise AI implementation
 - Technical product delivery
 - Customer onboarding and implementation
 - API and third-party integrations
 - Reliable production infrastructure
-- AI-powered engineering document intelligence
+- Business process automation
+- AI-powered search and retrieval systems
 
 ---
 
